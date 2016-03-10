@@ -1,0 +1,19 @@
+{
+  "name": "kc-snapping",
+  "version": "0.0.1",
+  "description": "snapping to articles",
+  "main": "snapping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/kaffeecode/snapping.git"
+  },
+  "keywords": [
+    "snpping"
+  ],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/kaffeecode/snapping#readme"
+}
